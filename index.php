@@ -150,7 +150,7 @@
                     </div>
 
                     <div class="category-block col-md-3 col-sm-6 col-xs-12">
-                        <a class="category-block--link" href="https://cp-sport.vn/collections/thoi-trang-the-thao">
+                        <a class="category-block--link" href="#">
                             <div class="category-block--image">
                                 <img class=" ls-is-cached lazyloaded" data-src="//theme.hstatic.net/200000247969/1000814323/14/categorybanner_2_img.jpg?v=68" src="//theme.hstatic.net/200000247969/1000814323/14/categorybanner_2_img.jpg?v=68" alt="THỜI TRANG THỂ THAO">
                             </div>
@@ -163,7 +163,7 @@
                     </div>
 
                     <div class="category-block col-md-3 col-sm-6 col-xs-12">
-                        <a class="category-block--link" href="https://cp-sport.vn/collections/phu-kien-the-thao">
+                        <a class="category-block--link" href="#">
                             <div class="category-block--image">
                                 <img class=" ls-is-cached lazyloaded" data-src="//theme.hstatic.net/200000247969/1000814323/14/categorybanner_3_img.jpg?v=68" src="//theme.hstatic.net/200000247969/1000814323/14/categorybanner_3_img.jpg?v=68" alt="PHỤ KIỆN THỂ THAO">
                             </div>
@@ -183,7 +183,7 @@
             <section class="sectionCollection-2">
                 <!-- <div class="container"> -->
                 <h2 class="hTitle">
-                    <a href="/collections/san-pham-moi">
+                    <a href="">
                         SẢN PHẨM MỚI
                     </a>
                 </h2>
@@ -194,7 +194,7 @@
 
                             <div class="product-inner product-resize fixheight" style="height: 357px;">
                                 <div class="proloop-image image-resize" style="height: 273px;">
-                                    <a href="/products/bo-quan-ao-bong-da-arca-nu" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-arca-nu" title="Bộ Quần Áo Bóng Đá ARCA Nữ">
+                                    <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-arca-nu" title="Bộ Quần Áo Bóng Đá ARCA Nữ">
                                         <picture class="first-image">
                                             <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/trang-truoci_5dd8b0b0443c4de08154e40fb5ae5563_large.jpg" alt=" Bộ Quần Áo Bóng Đá ARCA Nữ " src="//product.hstatic.net/200000247969/product/trang-truoci_5dd8b0b0443c4de08154e40fb5ae5563_large.jpg">
                                         </picture>
@@ -206,7 +206,7 @@
                                     </a>
                                 </div>
                                 <div class="proloop-detail">
-                                    <h3><a href="/products/bo-quan-ao-bong-da-arca-nu" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-arca-nu">Bộ Quần Áo Bóng Đá ARCA Nữ</a></h3>
+                                    <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-arca-nu">Bộ Quần Áo Bóng Đá ARCA Nữ</a></h3>
                                     <p class="proloop--price">
                                         <span class="price">145,000₫</span>
                                     </p>
@@ -218,7 +218,7 @@
 
                             <div class="product-inner product-resize fixheight" style="height: 357px;">
                                 <div class="proloop-image image-resize" style="height: 273px;">
-                                    <a href="/products/bo-quan-ao-bong-da-arca-nam-1" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-arca-nam-1" title="Bộ Quần Áo Bóng Đá ARCA Nam">
+                                    <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-arca-nam-1" title="Bộ Quần Áo Bóng Đá ARCA Nam">
                                         <picture class="first-image">
                                             <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/trangnam-truoc_c124eebd7dad4c49957fee7a629ae92a_large.jpg" alt=" Bộ Quần Áo Bóng Đá ARCA Nam " src="//product.hstatic.net/200000247969/product/trangnam-truoc_c124eebd7dad4c49957fee7a629ae92a_large.jpg">
                                         </picture>
@@ -229,7 +229,7 @@
                                     </a>
                                 </div>
                                 <div class="proloop-detail">
-                                    <h3><a href="/products/bo-quan-ao-bong-da-arca-nam-1" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-arca-nam-1">Bộ Quần Áo Bóng Đá ARCA Nam</a></h3>
+                                    <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-arca-nam-1">Bộ Quần Áo Bóng Đá ARCA Nam</a></h3>
                                     <p class="proloop--price">
                                         <span class="price">145,000₫</span>
                                     </p>
@@ -241,7 +241,7 @@
 
                             <div class="product-inner product-resize fixheight" style="height: 357px;">
                                 <div class="proloop-image image-resize" style="height: 273px;">
-                                    <a href="/products/bo-trang-phuc-thu-dong-cao-cap-egan-01" class="quickview-product" data-handle="/products/bo-trang-phuc-thu-dong-cao-cap-egan-01" title="Bộ trang phục Thu Đông cao cấp Egan - 01">
+                                    <a href="#" class="quickview-product" data-handle="/products/bo-trang-phuc-thu-dong-cao-cap-egan-01" title="Bộ trang phục Thu Đông cao cấp Egan - 01">
                                         <picture class="first-image">
                                             <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/duong-truoc_242552bf8afa4456a12792c85919581f_large.jpg" alt=" Bộ trang phục Thu Đông cao cấp Egan - 01 " src="//product.hstatic.net/200000247969/product/duong-truoc_242552bf8afa4456a12792c85919581f_large.jpg">
                                         </picture>
@@ -252,7 +252,7 @@
                                     </a>
                                 </div>
                                 <div class="proloop-detail">
-                                    <h3><a href="/products/bo-trang-phuc-thu-dong-cao-cap-egan-01" class="quickview-product" data-handle="/products/bo-trang-phuc-thu-dong-cao-cap-egan-01">Bộ trang phục Thu Đông cao cấp Egan - 01</a></h3>
+                                    <h3><a href="#" class="quickview-product" data-handle="/products/bo-trang-phuc-thu-dong-cao-cap-egan-01">Bộ trang phục Thu Đông cao cấp Egan - 01</a></h3>
                                     <p class="proloop--price">
                                         <span class="price">530,000₫</span>
                                     </p>
@@ -264,7 +264,7 @@
 
                             <div class="product-inner product-resize fixheight" style="height: 357px;">
                                 <div class="proloop-image image-resize" style="height: 273px;">
-                                    <a href="/products/ao-lot-body-the-thao-hyper-fit2" class="quickview-product" data-handle="/products/ao-lot-body-the-thao-hyper-fit2" title="Áo Lót Body Thể Thao Hyper-fit2">
+                                    <a href="#" class="quickview-product" data-handle="/products/ao-lot-body-the-thao-hyper-fit2" title="Áo Lót Body Thể Thao Hyper-fit2">
                                         <picture class="first-image">
                                             <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/z3848921343533_c21bcbc8e2676e28f6345a8623e2a6fc_fa80630d7eef4114922fd3bd53ad4804_large.jpg" alt=" Áo Lót Body Thể Thao Hyper-fit2 " src="//product.hstatic.net/200000247969/product/z3848921343533_c21bcbc8e2676e28f6345a8623e2a6fc_fa80630d7eef4114922fd3bd53ad4804_large.jpg">
                                         </picture>
@@ -275,7 +275,7 @@
                                     </a>
                                 </div>
                                 <div class="proloop-detail">
-                                    <h3><a href="/products/ao-lot-body-the-thao-hyper-fit2" class="quickview-product" data-handle="/products/ao-lot-body-the-thao-hyper-fit2">Áo Lót Body Thể Thao Hyper-fit2</a></h3>
+                                    <h3><a href="#" class="quickview-product" data-handle="/products/ao-lot-body-the-thao-hyper-fit2">Áo Lót Body Thể Thao Hyper-fit2</a></h3>
                                     <p class="proloop--price">
                                         <span class="price">185,000₫</span>
                                     </p>
@@ -287,7 +287,7 @@
 
                             <div class="product-inner product-resize fixheight" style="height: 357px;">
                                 <div class="proloop-image image-resize" style="height: 273px;">
-                                    <a href="/products/bo-quan-ao-bong-chuyen-savia-nam" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nam" title="Bộ Quần Áo Bóng Chuyền SAVIA Nam">
+                                    <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nam" title="Bộ Quần Áo Bóng Chuyền SAVIA Nam">
                                         <picture class="first-image">
                                             <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/1_02796da770d946a9aae9ce67bd0477b4_large.jpg" alt=" Bộ Quần Áo Bóng Chuyền SAVIA Nam " src="//product.hstatic.net/200000247969/product/1_02796da770d946a9aae9ce67bd0477b4_large.jpg">
                                         </picture>
@@ -298,7 +298,7 @@
                                     </a>
                                 </div>
                                 <div class="proloop-detail">
-                                    <h3><a href="/products/bo-quan-ao-bong-chuyen-savia-nam" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nam">Bộ Quần Áo Bóng Chuyền SAVIA Nam</a></h3>
+                                    <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nam">Bộ Quần Áo Bóng Chuyền SAVIA Nam</a></h3>
                                     <p class="proloop--price">
                                         <span class="price">170,000₫</span>
                                     </p>
@@ -310,7 +310,7 @@
 
                             <div class="product-inner product-resize fixheight" style="height: 357px;">
                                 <div class="proloop-image image-resize" style="height: 273px;">
-                                    <a href="/products/bo-quan-ao-bong-chuyen-savia-nu" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nu" title="Bộ Quần Áo Bóng Chuyền SAVIA Nữ">
+                                    <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nu" title="Bộ Quần Áo Bóng Chuyền SAVIA Nữ">
                                         <picture class="first-image">
                                             <img class="img-loop lazyloaded" data-src="//product.hstatic.net/200000247969/product/114_f8a0bcaa6f8d4b20b87e803bac91218c_large.jpg" alt=" Bộ Quần Áo Bóng Chuyền SAVIA Nữ " src="//product.hstatic.net/200000247969/product/114_f8a0bcaa6f8d4b20b87e803bac91218c_large.jpg">
                                         </picture>
@@ -321,7 +321,7 @@
                                     </a>
                                 </div>
                                 <div class="proloop-detail">
-                                    <h3><a href="/products/bo-quan-ao-bong-chuyen-savia-nu" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nu">Bộ Quần Áo Bóng Chuyền SAVIA Nữ</a></h3>
+                                    <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nu">Bộ Quần Áo Bóng Chuyền SAVIA Nữ</a></h3>
                                     <p class="proloop--price">
                                         <span class="price">170,000₫</span>
                                     </p>
@@ -333,7 +333,7 @@
 
                             <div class="product-inner product-resize fixheight" style="height: 357px;">
                                 <div class="proloop-image image-resize" style="height: 273px;">
-                                    <a href="/products/bo-quan-ao-bong-da-victor" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-victor" title="Bộ Quần Áo Bóng Đá VICTOR">
+                                    <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-victor" title="Bộ Quần Áo Bóng Đá VICTOR">
                                         <picture class="first-image">
                                             <img class="img-loop lazyloaded" data-src="//product.hstatic.net/200000247969/product/5_1ec19a816b1243e9b43bc47487ba3c3b_large.jpg" alt=" Bộ Quần Áo Bóng Đá VICTOR " src="//product.hstatic.net/200000247969/product/5_1ec19a816b1243e9b43bc47487ba3c3b_large.jpg">
                                         </picture>
@@ -344,7 +344,7 @@
                                     </a>
                                 </div>
                                 <div class="proloop-detail">
-                                    <h3><a href="/products/bo-quan-ao-bong-da-victor" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-victor">Bộ Quần Áo Bóng Đá VICTOR</a></h3>
+                                    <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-victor">Bộ Quần Áo Bóng Đá VICTOR</a></h3>
                                     <p class="proloop--price">
                                         <span class="price">270,000₫</span>
                                     </p>
@@ -356,7 +356,7 @@
 
                             <div class="product-inner product-resize fixheight" style="height: 357px;">
                                 <div class="proloop-image image-resize" style="height: 273px;">
-                                    <a href="/products/bo-quan-ao-bong-da-nitro" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-nitro" title="Bộ Quần Áo Bóng Đá NITRO">
+                                    <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-nitro" title="Bộ Quần Áo Bóng Đá NITRO">
                                         <picture class="first-image">
                                             <img class="img-loop lazyloaded" data-src="//product.hstatic.net/200000247969/product/den__1__23d3726f0f554e90bb05817e24764562_large.jpg" alt=" Bộ Quần Áo Bóng Đá NITRO " src="//product.hstatic.net/200000247969/product/den__1__23d3726f0f554e90bb05817e24764562_large.jpg">
                                         </picture>
@@ -367,7 +367,7 @@
                                     </a>
                                 </div>
                                 <div class="proloop-detail">
-                                    <h3><a href="/products/bo-quan-ao-bong-da-nitro" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-nitro">Bộ Quần Áo Bóng Đá NITRO</a></h3>
+                                    <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-da-nitro">Bộ Quần Áo Bóng Đá NITRO</a></h3>
                                     <p class="proloop--price">
                                         <span class="price">170,000₫</span>
                                     </p>
@@ -454,7 +454,7 @@
             <section class="sectionCollection-3">
                 <div class="container">
                     <h2 class="hTitle">
-                        <a href="/collections/trang-phuc-bong-da">
+                        <a href="#">
                             Trang phục bóng đá
                         </a>
                     </h2>
@@ -481,7 +481,7 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -506,7 +506,7 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -531,85 +531,7 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
-                                                <p class="proloop--price">
-                                                    <span class="price">315,000₫</span>
-                                                </p>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                                <div class="col-xs-12 col-sm-12 col-md-3 product-colmnloop">
-
-                                    <div class="col-md-12 col-xs-12 product-loop product-horizontal">
-                                        <div class="product-inner product-resize">
-                                            <div class="proloop-image image-resize">
-                                                <a href="#" class="quickview-product" data-handle="" title="Bộ Quần Áo Bóng Đá ALPHA">
-                                                    <picture class="first-image">
-
-                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg">
-                                                    </picture>
-
-                                                    <picture class="second-image hidden-xs">
-
-                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg">
-                                                    </picture>
-                                                </a>
-                                            </div>
-                                            <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
-                                                <p class="proloop--price">
-                                                    <span class="price">315,000₫</span>
-                                                </p>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-                                    <div class="col-md-12 col-xs-12 product-loop product-horizontal">
-                                        <div class="product-inner product-resize">
-                                            <div class="proloop-image image-resize">
-                                                <a href="#" class="quickview-product" data-handle="" title="Bộ Quần Áo Bóng Đá ALPHA">
-                                                    <picture class="first-image">
-
-                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg">
-                                                    </picture>
-
-                                                    <picture class="second-image hidden-xs">
-
-                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg">
-                                                    </picture>
-                                                </a>
-                                            </div>
-                                            <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
-                                                <p class="proloop--price">
-                                                    <span class="price">315,000₫</span>
-                                                </p>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-                                    <div class="col-md-12 col-xs-12 product-loop product-horizontal">
-                                        <div class="product-inner product-resize">
-                                            <div class="proloop-image image-resize">
-                                                <a href="#" class="quickview-product" data-handle="" title="Bộ Quần Áo Bóng Đá ALPHA">
-                                                    <picture class="first-image">
-
-                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg">
-                                                    </picture>
-
-                                                    <picture class="second-image hidden-xs">
-
-                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg">
-                                                    </picture>
-                                                </a>
-                                            </div>
-                                            <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -637,7 +559,7 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -662,7 +584,7 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -687,7 +609,7 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -715,7 +637,7 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -740,7 +662,7 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -765,7 +687,85 @@
                                                 </a>
                                             </div>
                                             <div class="proloop-detail">
-                                                <h3><a href="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <p class="proloop--price">
+                                                    <span class="price">315,000₫</span>
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="col-xs-12 col-sm-12 col-md-3 product-colmnloop">
+
+                                    <div class="col-md-12 col-xs-12 product-loop product-horizontal">
+                                        <div class="product-inner product-resize">
+                                            <div class="proloop-image image-resize">
+                                                <a href="#" class="quickview-product" data-handle="" title="Bộ Quần Áo Bóng Đá ALPHA">
+                                                    <picture class="first-image">
+
+                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg">
+                                                    </picture>
+
+                                                    <picture class="second-image hidden-xs">
+
+                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg">
+                                                    </picture>
+                                                </a>
+                                            </div>
+                                            <div class="proloop-detail">
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <p class="proloop--price">
+                                                    <span class="price">315,000₫</span>
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="col-md-12 col-xs-12 product-loop product-horizontal">
+                                        <div class="product-inner product-resize">
+                                            <div class="proloop-image image-resize">
+                                                <a href="#" class="quickview-product" data-handle="" title="Bộ Quần Áo Bóng Đá ALPHA">
+                                                    <picture class="first-image">
+
+                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg">
+                                                    </picture>
+
+                                                    <picture class="second-image hidden-xs">
+
+                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg">
+                                                    </picture>
+                                                </a>
+                                            </div>
+                                            <div class="proloop-detail">
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
+                                                <p class="proloop--price">
+                                                    <span class="price">315,000₫</span>
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="col-md-12 col-xs-12 product-loop product-horizontal">
+                                        <div class="product-inner product-resize">
+                                            <div class="proloop-image image-resize">
+                                                <a href="#" class="quickview-product" data-handle="" title="Bộ Quần Áo Bóng Đá ALPHA">
+                                                    <picture class="first-image">
+
+                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-bich_5074c842fc524077b4d2e586e865c9b3_large.jpg">
+                                                    </picture>
+
+                                                    <picture class="second-image hidden-xs">
+
+                                                        <img class="img-loop ls-is-cached lazyloaded" data-src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg" alt=" Bộ Quần Áo Bóng Đá ALPHA " src="//product.hstatic.net/200000247969/product/alpha-chuoi_abce46a528094dea93a7f9f6b04849e3_large.jpg">
+                                                    </picture>
+                                                </a>
+                                            </div>
+                                            <div class="proloop-detail">
+                                                <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-da-alpha-egan-hoa-tiet-camo-thoang-mat-de-mac-phu-hop-luyen-tap-the-thao-td04">Bộ Quần Áo Bóng Đá ALPHA</a></h3>
                                                 <p class="proloop--price">
                                                     <span class="price">315,000₫</span>
                                                 </p>
@@ -815,7 +815,7 @@
             <section class="sectionCollection-4">
                 <div class="container">
                     <h2 class="hTitle">
-                        <a href="/collections/trang-phuc-bong-da">
+                        <a href="#">
                             Trang phục bóng chuyền
                         </a>
                     </h2>
@@ -827,7 +827,7 @@
 
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
-                                        <a href="/products/bo-bong-chuyen-harry-nam" class="quickview-product" data-handle="/products/bo-bong-chuyen-harry-nam" title="Bộ Quần Áo Bóng Chuyền HARRY nam">
+                                        <a href="#" class="quickview-product" data-handle="/products/bo-bong-chuyen-harry-nam" title="Bộ Quần Áo Bóng Chuyền HARRY nam">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/d1_06fa03f0b7d846f4944503973674b69a_medium.jpg" srcset="//product.hstatic.net/200000247969/product/d1_06fa03f0b7d846f4944503973674b69a_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/d1_06fa03f0b7d846f4944503973674b69a_large.jpg" srcset="//product.hstatic.net/200000247969/product/d1_06fa03f0b7d846f4944503973674b69a_large.jpg">
@@ -842,7 +842,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/bo-bong-chuyen-harry-nam" class="quickview-product" data-handle="/products/bo-bong-chuyen-harry-nam">Bộ Quần Áo Bóng Chuyền HARRY nam</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/bo-bong-chuyen-harry-nam">Bộ Quần Áo Bóng Chuyền HARRY nam</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">170,000₫</span>
 
@@ -856,7 +856,7 @@
 
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
-                                        <a href="/products/bo-quan-ao-bong-chuyen-savia-nu" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nu" title="Bộ Quần Áo Bóng Chuyền SAVIA Nữ">
+                                        <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nu" title="Bộ Quần Áo Bóng Chuyền SAVIA Nữ">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/114_f8a0bcaa6f8d4b20b87e803bac91218c_medium.jpg" srcset="//product.hstatic.net/200000247969/product/114_f8a0bcaa6f8d4b20b87e803bac91218c_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/114_f8a0bcaa6f8d4b20b87e803bac91218c_large.jpg" srcset="//product.hstatic.net/200000247969/product/114_f8a0bcaa6f8d4b20b87e803bac91218c_large.jpg">
@@ -871,7 +871,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/bo-quan-ao-bong-chuyen-savia-nu" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nu">Bộ Quần Áo Bóng Chuyền SAVIA Nữ</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-savia-nu">Bộ Quần Áo Bóng Chuyền SAVIA Nữ</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">170,000₫</span>
 
@@ -885,7 +885,7 @@
 
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
-                                        <a href="/products/bo-quan-ao-bong-chuyen-harry-nu" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-harry-nu" title="Bộ Quần Áo Bóng Chuyền HARRY nữ">
+                                        <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-harry-nu" title="Bộ Quần Áo Bóng Chuyền HARRY nữ">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/d2_ede954472cca4734a9846a2279ad3597_medium.jpg" srcset="//product.hstatic.net/200000247969/product/d2_ede954472cca4734a9846a2279ad3597_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/d2_ede954472cca4734a9846a2279ad3597_large.jpg" srcset="//product.hstatic.net/200000247969/product/d2_ede954472cca4734a9846a2279ad3597_large.jpg">
@@ -900,7 +900,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/bo-quan-ao-bong-chuyen-harry-nu" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-harry-nu">Bộ Quần Áo Bóng Chuyền HARRY nữ</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-harry-nu">Bộ Quần Áo Bóng Chuyền HARRY nữ</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">170,000₫</span>
                                         </p>
@@ -914,7 +914,7 @@
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
                                         <div class="pro-soldout"><span>Hết hàng</span></div>
-                                        <a href="/products/bo-quan-ao-the-thao-bong-chuyen-nam-zentiga-cp-sport-bc05-thiet-ke-nang-dong-hien-dai-phu-hop-tap-luyen-the-thao-vui-choi" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nam-zentiga-cp-sport-bc05-thiet-ke-nang-dong-hien-dai-phu-hop-tap-luyen-the-thao-vui-choi" title="Bộ Quần Áo Bóng Chuyền ZENTIGA nam">
+                                        <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nam-zentiga-cp-sport-bc05-thiet-ke-nang-dong-hien-dai-phu-hop-tap-luyen-the-thao-vui-choi" title="Bộ Quần Áo Bóng Chuyền ZENTIGA nam">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/do__14__3114bb38ce644cdeb4e17c73431f4fd1_medium.jpg" srcset="//product.hstatic.net/200000247969/product/do__14__3114bb38ce644cdeb4e17c73431f4fd1_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/do__14__3114bb38ce644cdeb4e17c73431f4fd1_large.jpg" srcset="//product.hstatic.net/200000247969/product/do__14__3114bb38ce644cdeb4e17c73431f4fd1_large.jpg">
@@ -929,7 +929,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/bo-quan-ao-the-thao-bong-chuyen-nam-zentiga-cp-sport-bc05-thiet-ke-nang-dong-hien-dai-phu-hop-tap-luyen-the-thao-vui-choi" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nam-zentiga-cp-sport-bc05-thiet-ke-nang-dong-hien-dai-phu-hop-tap-luyen-the-thao-vui-choi">Bộ Quần Áo Bóng Chuyền ZENTIGA nam</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nam-zentiga-cp-sport-bc05-thiet-ke-nang-dong-hien-dai-phu-hop-tap-luyen-the-thao-vui-choi">Bộ Quần Áo Bóng Chuyền ZENTIGA nam</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">155,000₫</span>
                                         </p>
@@ -943,7 +943,7 @@
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
                                         <div class="pro-soldout"><span>Hết hàng</span></div>
-                                        <a href="/products/bo-quan-ao-the-thao-bong-chuyen-nu-zentiga-cp-sport-bc05-thiet-ke-tinh-te-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-vui-choi" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nu-zentiga-cp-sport-bc05-thiet-ke-tinh-te-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-vui-choi" title="Bộ Quần Áo Bóng Chuyền ZENTIGA nữ">
+                                        <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nu-zentiga-cp-sport-bc05-thiet-ke-tinh-te-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-vui-choi" title="Bộ Quần Áo Bóng Chuyền ZENTIGA nữ">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/do__9__8e95d96cd9d948b6b18f52cc2ab1e96e_medium.jpg" srcset="//product.hstatic.net/200000247969/product/do__9__8e95d96cd9d948b6b18f52cc2ab1e96e_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/do__9__8e95d96cd9d948b6b18f52cc2ab1e96e_large.jpg" srcset="//product.hstatic.net/200000247969/product/do__9__8e95d96cd9d948b6b18f52cc2ab1e96e_large.jpg">
@@ -958,7 +958,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/bo-quan-ao-the-thao-bong-chuyen-nu-zentiga-cp-sport-bc05-thiet-ke-tinh-te-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-vui-choi" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nu-zentiga-cp-sport-bc05-thiet-ke-tinh-te-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-vui-choi">Bộ Quần Áo Bóng Chuyền ZENTIGA nữ</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nu-zentiga-cp-sport-bc05-thiet-ke-tinh-te-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-vui-choi">Bộ Quần Áo Bóng Chuyền ZENTIGA nữ</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">155,000₫</span>
                                         </p>
@@ -972,7 +972,7 @@
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
                                         <div class="pro-soldout"><span>Hết hàng</span></div>
-                                        <a href="/products/bo-quan-ao-the-thao-bong-chuyen-nam-galvin-cp-sport-bc03-thiet-ke-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nam-galvin-cp-sport-bc03-thiet-ke-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh" title="Bộ Quần Áo Bóng Chuyền GALVIN nam">
+                                        <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nam-galvin-cp-sport-bc03-thiet-ke-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh" title="Bộ Quần Áo Bóng Chuyền GALVIN nam">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/bich__8__f54c81bf6bd84813bff2c05524ef6844_medium.jpg" srcset="//product.hstatic.net/200000247969/product/bich__8__f54c81bf6bd84813bff2c05524ef6844_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/bich__8__f54c81bf6bd84813bff2c05524ef6844_large.jpg" srcset="//product.hstatic.net/200000247969/product/bich__8__f54c81bf6bd84813bff2c05524ef6844_large.jpg">
@@ -987,7 +987,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/bo-quan-ao-the-thao-bong-chuyen-nam-galvin-cp-sport-bc03-thiet-ke-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nam-galvin-cp-sport-bc03-thiet-ke-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh">Bộ Quần Áo Bóng Chuyền GALVIN nam</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nam-galvin-cp-sport-bc03-thiet-ke-hien-dai-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh">Bộ Quần Áo Bóng Chuyền GALVIN nam</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">145,000₫</span>
                                         </p>
@@ -1001,7 +1001,7 @@
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
                                         <div class="pro-soldout"><span>Hết hàng</span></div>
-                                        <a href="/products/bo-quan-ao-the-thao-bong-chuyen-nu-galvin-cp-sport-bc03-thiet-ke-tinh-te-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nu-galvin-cp-sport-bc03-thiet-ke-tinh-te-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh" title="Bộ Quần Áo Bóng Chuyền GALVIN nữ">
+                                        <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nu-galvin-cp-sport-bc03-thiet-ke-tinh-te-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh" title="Bộ Quần Áo Bóng Chuyền GALVIN nữ">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/bich__12__2ef63052b1bf43cdb6431d52af387172_medium.jpg" srcset="//product.hstatic.net/200000247969/product/bich__12__2ef63052b1bf43cdb6431d52af387172_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/bich__12__2ef63052b1bf43cdb6431d52af387172_large.jpg" srcset="//product.hstatic.net/200000247969/product/bich__12__2ef63052b1bf43cdb6431d52af387172_large.jpg">
@@ -1016,7 +1016,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/bo-quan-ao-the-thao-bong-chuyen-nu-galvin-cp-sport-bc03-thiet-ke-tinh-te-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nu-galvin-cp-sport-bc03-thiet-ke-tinh-te-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh">Bộ Quần Áo Bóng Chuyền GALVIN nữ</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-the-thao-bong-chuyen-nu-galvin-cp-sport-bc03-thiet-ke-tinh-te-nang-dong-phu-hop-tap-luyen-the-thao-van-dong-manh">Bộ Quần Áo Bóng Chuyền GALVIN nữ</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">145,000₫</span>
                                         </p>
@@ -1029,7 +1029,7 @@
 
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
-                                        <a href="/products/quan-ao-bong-chuyen-enzo-cp-sport-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong-bc04" class="quickview-product" data-handle="/products/quan-ao-bong-chuyen-enzo-cp-sport-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong-bc04" title="Bộ Quần Áo Bóng Chuyền ENZO nam">
+                                        <a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-chuyen-enzo-cp-sport-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong-bc04" title="Bộ Quần Áo Bóng Chuyền ENZO nam">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/enzo-bich_55d4abc0485a4ed5b488f26786755367_medium.jpg" srcset="//product.hstatic.net/200000247969/product/enzo-bich_55d4abc0485a4ed5b488f26786755367_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/enzo-bich_55d4abc0485a4ed5b488f26786755367_large.jpg" srcset="//product.hstatic.net/200000247969/product/enzo-bich_55d4abc0485a4ed5b488f26786755367_large.jpg">
@@ -1044,7 +1044,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/quan-ao-bong-chuyen-enzo-cp-sport-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong-bc04" class="quickview-product" data-handle="/products/quan-ao-bong-chuyen-enzo-cp-sport-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong-bc04">Bộ Quần Áo Bóng Chuyền ENZO nam</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/quan-ao-bong-chuyen-enzo-cp-sport-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong-bc04">Bộ Quần Áo Bóng Chuyền ENZO nam</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">160,000₫</span>
                                         </p>
@@ -1058,7 +1058,7 @@
                                 <div class="product-inner product-resize fixheight" style="height: 259px;">
                                     <div class="proloop-image image-resize" style="height: 177px;">
                                         <div class="pro-soldout"><span>Hết hàng</span></div>
-                                        <a href="/products/bo-quan-ao-bong-chuyen-nu-enzo-cp-sport-bc04-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-nu-enzo-cp-sport-bc04-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong" title="Bộ Quần Áo Bóng Chuyền ENZO nữ">
+                                        <a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-nu-enzo-cp-sport-bc04-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong" title="Bộ Quần Áo Bóng Chuyền ENZO nữ">
                                             <picture class="first-image">
                                                 <source media="(max-width: 480px)" data-srcset="//product.hstatic.net/200000247969/product/bich__16__3beec5adc2594af3a99f0328bc7e2ca3_medium.jpg" srcset="//product.hstatic.net/200000247969/product/bich__16__3beec5adc2594af3a99f0328bc7e2ca3_medium.jpg">
                                                 <source media="(min-width: 481px)" data-srcset="//product.hstatic.net/200000247969/product/bich__16__3beec5adc2594af3a99f0328bc7e2ca3_large.jpg" srcset="//product.hstatic.net/200000247969/product/bich__16__3beec5adc2594af3a99f0328bc7e2ca3_large.jpg">
@@ -1073,7 +1073,7 @@
                                         </a>
                                     </div>
                                     <div class="proloop-detail">
-                                        <h3><a href="/products/bo-quan-ao-bong-chuyen-nu-enzo-cp-sport-bc04-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-nu-enzo-cp-sport-bc04-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong">Bộ Quần Áo Bóng Chuyền ENZO nữ</a></h3>
+                                        <h3><a href="#" class="quickview-product" data-handle="/products/bo-quan-ao-bong-chuyen-nu-enzo-cp-sport-bc04-chat-lieu-vai-me-soc-tham-hut-mo-hoi-thoai-mai-hoat-dong">Bộ Quần Áo Bóng Chuyền ENZO nữ</a></h3>
                                         <p class="proloop--price">
                                             <span class="price">160,000₫</span>
                                         </p>
@@ -1140,35 +1140,35 @@
                                 <ul class="fList-link">
 
                                     <li class="item">
-                                        <a href="/pages/trang-thong-tin-tuyen-dung-cp-sport" title="Thông tin tuyển dụng">Thông tin tuyển dụng</a>
+                                        <a href="#" title="Thông tin tuyển dụng">Thông tin tuyển dụng</a>
                                     </li>
 
                                     <li class="item">
-                                        <a href="/search" title="Tìm kiếm">Tìm kiếm</a>
+                                        <a href="#" title="Tìm kiếm">Tìm kiếm</a>
                                     </li>
 
                                     <li class="item">
-                                        <a href="/pages/gioi-thieu-cong-ty-tnhh-the-thao-cp" title="Giới thiệu">Giới thiệu</a>
+                                        <a href="#" title="Giới thiệu">Giới thiệu</a>
                                     </li>
 
                                     <li class="item">
-                                        <a href="/pages/chinh-sach-doi-tra" title="Chính sách đổi trả">Chính sách đổi trả</a>
+                                        <a href="#" title="Chính sách đổi trả">Chính sách đổi trả</a>
                                     </li>
 
                                     <li class="item">
-                                        <a href="/pages/chinh-sach-cong-tac-vien-dai-ly" title="Chính sách Cộng tác viên &amp; Đại lý">Chính sách Cộng tác viên &amp; Đại lý</a>
+                                        <a href="#" title="Chính sách Cộng tác viên &amp; Đại lý">Chính sách Cộng tác viên &amp; Đại lý</a>
                                     </li>
 
                                     <li class="item">
-                                        <a href="/pages/huong-dan-mua-hang" title="Hướng dẫn mua hàng">Hướng dẫn mua hàng</a>
+                                        <a href="#" title="Hướng dẫn mua hàng">Hướng dẫn mua hàng</a>
                                     </li>
 
                                     <li class="item">
-                                        <a href="/pages/chinh-sach-bao-mat" title="Chính sách bảo mật">Chính sách bảo mật</a>
+                                        <a href="#" title="Chính sách bảo mật">Chính sách bảo mật</a>
                                     </li>
 
                                     <li class="item">
-                                        <a href="/pages/huong-dan-cach-thanh-toan-va-ap-dung-voucher-tren-reepay" title="Hướng dẫn cách thanh toán và áp dụng Voucher trên REEPAY">Hướng dẫn cách thanh toán và áp dụng Voucher trên REEPAY</a>
+                                        <a href="#" title="Hướng dẫn cách thanh toán và áp dụng Voucher trên REEPAY">Hướng dẫn cách thanh toán và áp dụng Voucher trên REEPAY</a>
                                     </li>
 
                                 </ul>
