@@ -1,5 +1,5 @@
 body {
-    background-color: #999;
+    background-color: #f5f5f5;
 }
 
 
@@ -243,14 +243,45 @@ header .slideShow button.next {
     position: absolute;
     bottom: 32px;
     background-color: #fff;
-    width: 70%;
-    right: 15%;
+    width: 80%;
+    right: 10%;
+    height: 45px;
+    overflow: hidden;
+    transition: .6s;
+}
+.sectionCollection.sectionCollection-category .category-block.col-md-3.col-sm-6.col-xs-12:hover .category-block--body {
+    height: 110px;
+    transform: translateY(-5px);
+    transition: .6s;
 }
 
 .sectionCollection.sectionCollection-category .category-block.col-md-3.col-sm-6.col-xs-12 .category-block--body h3 {
-    font-size: 20px;
+    font-size: 17px;
+    text-align: center;
+    color: #000;
+    font-weight: bold;
 }
 
+.sectionCollection.sectionCollection-category .category-block.col-md-3.col-sm-6.col-xs-12 .category-block--body hr{    
+    border: .5px black solid;
+    width: 7px;
+    margin: 17px auto;
+    transition: .6s;
+}
+.sectionCollection.sectionCollection-category .category-block.col-md-3.col-sm-6.col-xs-12:hover .category-block--body hr{
+    width: 50px;
+    transform: translateX(-5px);
+    transition: .6s;
+}
+
+.sectionCollection.sectionCollection-category .category-block.col-md-3.col-sm-6.col-xs-12 .category-block--body p.action {
+    text-align: center;
+    background: red;
+    width: 40%;
+    margin: auto;
+    color: #fff;
+    padding: 3px;
+}
 
 
 
@@ -263,18 +294,34 @@ header .slideShow button.next {
     background-color: #fff;
 }
 
+.content .sectionCollection-2 h2.hTitle {
+    padding: 17px 65px;
+}
+
+.content .sectionCollection-2 h2.hTitle a {
+    font-size: 23px;
+    color: #000;
+    font-weight: bold;
+}
+
 /* wraplist-container */
 
 .content .sectionCollection-2 .row {
     margin: 0;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 
 .sectionCollection-2 .wraplist-container .product-loop {
     position: relative;
-    flex: 0 0 23%;
-    max-width: 23%;
+    flex: 0 0 21%;
+    max-width: 21%;
+    margin: 12px 0;
+    padding: 0;
+}
+
+.sectionCollection-2 .wraplist-container .product-loop:hover {
+    box-shadow: 0 0 12px rgb(236, 235, 235);
 }
 
 .sectionCollection-2 .wraplist-container .product-loop .proloop-image img {
@@ -285,14 +332,29 @@ header .slideShow button.next {
 }
 .sectionCollection-2 .wraplist-container .product-loop .proloop-image .first-image img {
     z-index: 2;
+    position: absolute;
+    right: 0;
+    left: 0;
 }
 .sectionCollection-2 .wraplist-container .product-loop:hover .proloop-image .second-image.hidden-xs img {
     z-index: 3;
+    position: absolute;
+    right: 0;
+    left: 0;
 }
 
 
+.sectionCollection-2 .wraplist-container .product-loop .proloop-detail{
+    padding: 0 15px;
+}
+
+.sectionCollection-2 .wraplist-container .product-loop .proloop-detail h3 {
+    line-height: 17px;
+
+}
+
 .sectionCollection-2 .wraplist-container .product-loop .proloop-detail h3 a {
-    font-size: 17px;
+    font-size: 15px;
     font-weight: bold;
     color: #666;
 }
@@ -304,6 +366,7 @@ header .slideShow button.next {
 .sectionCollection-2 .wrapimage-container .groupbanner_image_block img.lazyloaded {
     display: block;
     margin: auto;
+    padding: 30px 0;
 }
 
 
@@ -314,14 +377,35 @@ header .slideShow button.next {
 /* ============ sectionLookbooks ========================= ============
  */
 
- .content .sectionLookbooks {
-    padding: 0 50px;
- }
+.content .sectionLookbooks {
+    padding: 30px 70px;
+}
+
+.content .sectionLookbooks h2 {
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
 
 .content .sectionLookbooks .row .lookbooks-column .lookbooks-banner__photo img {
     width: 100%;
     display: block;
     margin: auto;
+}
+
+.content .sectionLookbooks .row .lookbooks-column .lookbook-banner__detail button.button {
+    border: 0 !important;
+    width: 40% !important;
+    height: 35px !important;
+    background: red !important;
+    color: #fff !important;
+    transition: .6s !important;
+}
+
+.content .sectionLookbooks .row .lookbooks-column:hover .lookbooks-banner__detail button.button {
+    background: #fff;
+    color: red;
+    transition: .6s;
 }
 
 
@@ -339,6 +423,23 @@ header .slideShow button.next {
     background-color: #ffffff;
 }
 
+
+.content .sectionCollection-3 h2.hTitle {
+    padding: 10px 0;
+}
+
+.content .sectionCollection-3 h2.hTitle a {
+    font-size: 23px;
+    color: #000;
+    font-weight: bold;
+}
+
+
+
+.sectionCollection-3 .container {
+    padding: 0;
+}
+
 .sectionCollection-3 .wraplist-container .owlCarousel-collection.owlCarousel-style {
     display: flex;
 }
@@ -348,9 +449,9 @@ header .slideShow button.next {
 }
 
 .sectionCollection-3 .wraplist-container .product-loop .proloop-image img {
-    height: 100%;
+    height: 85%;
     position: absolute;
-    right: 15%;
+    left: 0;
     z-index: 1;
 }
 
@@ -359,6 +460,14 @@ header .slideShow button.next {
 }
 .sectionCollection-3 .wraplist-container .product-loop:hover .proloop-image .second-image.hidden-xs img {
     z-index: 3;
+}
+
+
+
+.sectionCollection-3 .wraplist-container .product-loop .proloop-detail {
+    /* position: absolute; */
+    /* width: 55%; */
+    right: 0;
 }
 
 
@@ -375,7 +484,24 @@ header .slideShow button.next {
 
 .sectionCollection-4 {
     background-color: #ffffff;
+    padding: 0 70px;
+    margin-top: 17px;
 }
+
+
+.content .sectionCollection-4 h2.hTitle {
+    padding: 10px 0;
+}
+
+.content .sectionCollection-4 h2.hTitle a {
+    font-size: 23px;
+    color: #000;
+    font-weight: bold;
+}
+
+/* 
+.sectionCollection-4 .wraplist-container {
+} */
 
 .sectionCollection-4 .wraplist-container .owlCarousel-collection.owlCarousel-style {
     display: flex;
@@ -383,12 +509,30 @@ header .slideShow button.next {
 
 .sectionCollection-4 .wraplist-container .product-loop {
     position: relative;
+    padding: 0;
+    flex: 0 0 17%;
+    max-width: 17%;
+    margin: 12px 1.5%;
+}
+
+.sectionCollection-4 .wraplist-container .product-loop:hover .product-inner {
+    box-shadow: 0 0 12px rgb(236, 235, 235);
+}
+
+
+.sectionCollection-4 .wraplist-container .product-loop .proloop-image .pro-soldout {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    z-index: 5;
+    background: #777;
+    color: #fff;
 }
 
 .sectionCollection-4 .wraplist-container .product-loop .proloop-image img {
-    height: 100%;
+    height: 70%;
     position: absolute;
-    right: 15%;
+    left: 0;
     z-index: 1;
 }
 
@@ -397,6 +541,26 @@ header .slideShow button.next {
 }
 .sectionCollection-4 .wraplist-container .product-loop:hover .proloop-image .second-image.hidden-xs img {
     z-index: 3;
+}
+
+
+.sectionCollection-4 .wraplist-container .product-loop .proloop-detail {
+    padding: 3px 7px;
+}
+
+.sectionCollection-4 .wraplist-container .product-loop .proloop-detail h3 {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bold;
+    margin-top: 9px;
+}
+
+.sectionCollection-4 .wraplist-container .product-loop .proloop-detail h3 a {
+    color: #777;
+}
+
+.sectionCollection-4 .wraplist-container .product-loop .proloop-detail p {
+    color: red;
 }
 
 
